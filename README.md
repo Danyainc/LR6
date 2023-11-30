@@ -15,28 +15,28 @@
 
 ### 3. Получение истории операций для каждой из веток
 На рисунке 3 представлено получение истории изменений для каждой из веток.
-![image](Screenshots/3.jpg)
+![image](Screenshots/3.png)
 
 Рисунок 3 - Получение истории операций 
 
 ### 4. Последние изменения
-![image](Screenshots/4.jpg)
+![image](Screenshots/4.png)
 
 Рисунок 4 - Последние изменения
 
 ### 5. Слияние в ветку master, разрешив конфликт
 Далее в работе было выполнено слияние веток master и branch1.
-![image](Screenshots/5.jpg)
+![image](Screenshots/5.png)
 
 Рисунок 5 - Слияние веток
 
 Возник конфликт из-за файла с разным содержанием. Были внесены изменения в файл mergefile.txt для решения конфликта. 
-![image](Screenshots/6.jpg)
+![image](Screenshots/6.png)
 
 Рисунок 6 - Содержимое конфликтующего файла
 
 ### 6. Удаление побочной ветки после успешного слияния.
-![image](Screenshots/7.jpg)
+![image](Screenshots/7.png)
 
 Рисунок 7 - Удаление ветки 
 
@@ -45,15 +45,15 @@
 
 Рисунок 8 - Коммит изменения файла merdefile
 
-![image](Screenshots/8.jpg)
+![image](Screenshots/8.png)
 
 
 ### 8. Откат коммита
-![image](Screenshots/9.jpg)
+![image](Screenshots/9.png)
 
 Рисунок 9 - Откат коммита 
 
-![image](Screenshots/10.jpg)
+![image](Screenshots/10.png)
 
 Рисунок 10 - Получение истории операций в форматированном виде  
 
